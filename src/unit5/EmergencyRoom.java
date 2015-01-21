@@ -257,7 +257,7 @@ public class EmergencyRoom extends javax.swing.JFrame {
     }//GEN-LAST:event_mnuclearscreenActionPerformed
 
     private void mnuexitActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mnuexitActionPerformed
-      System.exit(0);
+      this.dispose();
     }//GEN-LAST:event_mnuexitActionPerformed
 
     
